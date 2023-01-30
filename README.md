@@ -1,5 +1,5 @@
 # UFOs
-Module 12: UFO Sightings with Javascript
+
 ## Project Overview
 
 The goal of this project was organize a table of UFO data stored as a JavaScript aray and create a web page for users to view. Additionally, we've incorporated dynamic filters on the web page that allow users filter city, state, country, and shape simultaneously. 
@@ -14,7 +14,7 @@ This new assignment consists of one technical analysis deliverable and a written
 - Software: [Visual Studio Code, 1.70.2](https://code.visualstudio.com/updates/v1_70), [JavaScript](https://www.javascript.com), [HTML/CSS](https://html.com), [Bootstrap 4](https://getbootstrap.com)
 
 ## Results
-Upon loading the UFO Finder web page [see link](https://abrodyyy.github.io/UFOs/)- users are able to view all of the data on the site. 
+Upon loading the UFO Finder web page [see link](https://abrodyyy.github.io/UFOs/) users are able to view all of the data on the site. 
 
 ![Home Page](https://user-images.githubusercontent.com/111623064/215447675-0b048ee6-a2ac-40f4-9c00-0b86339e653d.png)
 ![Home Page Data](https://user-images.githubusercontent.com/111623064/215447751-83b63fb5-8a61-441a-8159-c63472697e74.png)
@@ -26,6 +26,7 @@ They then have the option to filter by the categories shown below:
 
 Users can then filter by any or all categories they desire. 
 - note: in order for the filter to take affect, they must click outside of the filter area. 
+
 ![example part 1](https://user-images.githubusercontent.com/111623064/215447863-cc457b43-ed0f-45d0-aa07-57f301b72bb0.png)
 
 If they would like to filter more, they can go back and add more:
