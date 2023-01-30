@@ -14,17 +14,28 @@ This new assignment consists of one technical analysis deliverable and a written
 - Software: [Visual Studio Code, 1.70.2](https://code.visualstudio.com/updates/v1_70), [JavaScript](https://www.javascript.com), [HTML/CSS](https://html.com), [Bootstrap 4](https://getbootstrap.com)
 
 ## Results
-![UFO Finder](link)
-Upon loading the UFO Finder web page [see link](https://abrodyyy.github.io/UFOs/) - users are able to view all of the data on the site. 
-
-![All Data](link)
-
+Upon loading the UFO Finder web page [see link](https://abrodyyy.github.io/UFOs/)- users are able to view all of the data on the site. 
+!
+[UFO Finder](https://github.com/abrodyyy/UFOs/blob/main/static/images/Home%20Page.png)
+!
+[All Data](https://github.com/abrodyyy/UFOs/blob/main/static/images/Home%20Page%20Data.png)
 
 They then have the option to filter by the categories shown below: 
-![Filter Ex 1](link)
+!
+[All Data](https://github.com/abrodyyy/UFOs/blob/main/static/images/Filter.png)
 
-In order for 
-![Filter Ex 2](link)
+Users can then filter by any or all categories they desire. 
+- note: in order for the filter to take affect, they must click outside of the filter area. 
+!
+[Filter Ex 1](https://github.com/abrodyyy/UFOs/blob/main/static/images/example%20part%201.png)
+
+If they would like to filter more, they can go back and add more:
+!
+[Filter Ex 2](https://github.com/abrodyyy/UFOs/blob/main/static/images/example%20part%202.png)
+
+In order to clear the filter critera, users must delete the text entered in the various filter categoreis: 
+!
+[All Data](https://github.com/abrodyyy/UFOs/blob/main/static/images/Filter.png)
 
 
 
