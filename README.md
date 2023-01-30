@@ -15,29 +15,24 @@ This new assignment consists of one technical analysis deliverable and a written
 
 ## Results
 Upon loading the UFO Finder web page [see link](https://abrodyyy.github.io/UFOs/)- users are able to view all of the data on the site. 
-!
-[UFO Finder](https://github.com/abrodyyy/UFOs/blob/main/static/images/Home%20Page.png)
-!
-[All Data](https://github.com/abrodyyy/UFOs/blob/main/static/images/Home%20Page%20Data.png)
+
+![Home Page](https://user-images.githubusercontent.com/111623064/215447675-0b048ee6-a2ac-40f4-9c00-0b86339e653d.png)
+![Home Page Data](https://user-images.githubusercontent.com/111623064/215447751-83b63fb5-8a61-441a-8159-c63472697e74.png)
+
 
 They then have the option to filter by the categories shown below: 
-!
-[All Data](https://github.com/abrodyyy/UFOs/blob/main/static/images/Filter.png)
+
+![Filter](https://user-images.githubusercontent.com/111623064/215447805-4ebbedd1-e762-4bb9-b5fa-9b9109c3ad47.png)
 
 Users can then filter by any or all categories they desire. 
 - note: in order for the filter to take affect, they must click outside of the filter area. 
-!
-[Filter Ex 1](https://github.com/abrodyyy/UFOs/blob/main/static/images/example%20part%201.png)
+![example part 1](https://user-images.githubusercontent.com/111623064/215447863-cc457b43-ed0f-45d0-aa07-57f301b72bb0.png)
 
 If they would like to filter more, they can go back and add more:
-!
-[Filter Ex 2](https://github.com/abrodyyy/UFOs/blob/main/static/images/example%20part%202.png)
+![example part 2](https://user-images.githubusercontent.com/111623064/215447906-a58a3a65-e158-4bac-832f-0b4f57601cd2.png)
 
 In order to clear the filter critera, users must delete the text entered in the various filter categoreis: 
-!
-[All Data](https://github.com/abrodyyy/UFOs/blob/main/static/images/Filter.png)
-
-
+![Home Page Data](https://user-images.githubusercontent.com/111623064/215447946-21c394ea-fee4-462c-9924-615bf925e787.png)
 
 ## Summary
 In order to allow users to filter for multiple critera rather than just date, we had to remove the "filter" button originally present on the page. This could lead to confusion, as users must click outisde of the filter area in order for the filter to take affect. I would reccomend that in the future, a new filter button that works with the multiple filters to avoid confusion. Additionally, in order to clear the fitlers, users must go back and delete all the text entered. I would reccomend in the future adding a "clear filters" button as well. Finally, I would reccomend adding more dynamic assistance to the filters, such as a calendar box for the date, drop downs with heirarchy encoded for the rest. For example: if a user were to enter 1/1/2010 as the date, when they moved to the next filter, a drop down would list the cities, state, countries, and shape with data available for that date.  
