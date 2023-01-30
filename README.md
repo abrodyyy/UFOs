@@ -10,7 +10,7 @@ This new assignment consists of one technical analysis deliverable and a written
 - Deliverable 2: A written report on the UFO analysis (README.md)
 
 ## Resources
-- Data Source: 
+- Data Source: [data.js](https://github.com/abrodyyy/UFOs/blob/main/static/js/data.js)
 - Software: [Visual Studio Code, 1.70.2](https://code.visualstudio.com/updates/v1_70), [JavaScript](https://www.javascript.com), [HTML/CSS](https://html.com), [Bootstrap 4](https://getbootstrap.com)
 
 ## Results
